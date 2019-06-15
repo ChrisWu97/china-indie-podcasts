@@ -1,0 +1,18 @@
+{
+  "name": "间奏播客",
+  "description": "旨在对抗当代社会对人的异化，试图探索当代生活中个殊化的价值理性与良好实践，以达成人的个性的全面发展。",
+  "author": "Chris",
+  "color": "#75DED0",
+  "logo": "http://www.interval.live/wp-content/uploads/2019/06/Interval_logo.png",
+  "url": "http://www.interval.live/",
+  "feed": "https://anchor.fm/s/9abdd7c/podcast/rss",
+  "apple": "https://podcasts.apple.com/cn/podcast/%E9%97%B4%E5%A5%8F%E6%92%AD%E5%AE%A2/id1459194118",
+  "google": " https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy85YWJkZDdjL3BvZGNhc3QvcnNz",
+  "spotify": "https://open.spotify.com/show/6OW59NknSA1f0NLLqZDGJc?si=g1GVFKYvSkmQ2jcpRn5OcQ",
+  "overcast": "",
+  "pcast": " https://pca.st/5uM6",
+  "castro": "https://castro.fm/podcast/30b1de99-5cfb-41d8-8013-b2f69882959c",
+  "breaker": "https://www.breaker.audio/jian-zou",
+  "typlog": false,
+  "blocked": true
+}
